@@ -1,0 +1,13 @@
+streamlit
+requests_oauthlib
+oauthlib
+google-auth
+msal
+google-api-python-client
+python-pptx
+openai
+requests
+pytube
+Pillow
+python-docx
+python-dotenv
